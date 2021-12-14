@@ -1,0 +1,28 @@
+{
+  "name": "mailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "build": "node bin/build.js"
+  },
+  "dependencies": {
+    "css-inline-tool": "^1.0.1",
+    "dotenv": "^8.2.0",
+    "html-minifier": "^4.0.0",
+    "mime-types": "^2.1.26",
+    "minio": "^7.0.13"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finer-vision/fintepla_launch_mailer.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/finer-vision/fintepla_launch_mailer/issues"
+  },
+  "homepage": "https://github.com/finer-vision/fintepla_launch_mailer#readme"
+}
