@@ -17,6 +17,11 @@
           url("fonts/Lato-Regular.ttf") format("truetype")
             url("/fonts/lato-regular-webfont.woff2") format("woff2");
       }
+
+      .transparent {
+        background-color: transparent !important;
+      }
+
       @media screen and (max-width: 400px) {
         .narrow--dt {
           padding-left: 0;
@@ -25,6 +30,26 @@
         .narrow__2--dt {
           padding-left: 20px;
           padding-right: 20px;
+        }
+      }
+
+      @media (prefers-color-scheme: dark) {
+        body {
+          background-color: #f6f9fc;
+          color: black;
+        }
+
+        center,
+        .webkit {
+          background-color: #ffffff;
+        }
+
+        table {
+          color: #4a4a4a;
+        }
+
+        .transparent {
+          background-color: transparent !important;
         }
       }
     </style>
@@ -152,13 +177,13 @@
                 style="
                   width: 100%;
                   border-spacing: 0;
-                  background-color: #f5f2f7;
+                  /* background-color: #f5f2f7; */
                 "
               >
                 <tr>
                   <td style="padding: 0">
                     <table style="width: 100%; border-spacing: 0">
-                      <tr>
+                      <tr style="background-color: #f5f2f7">
                         <td
                           class="narrow"
                           style="
@@ -245,37 +270,39 @@
           <tr>
             <td style="padding: 0">
               <table style="width: 100%; border-spacing: 0">
-                <tr>
-                  <td
-                    style="
-                      padding: 0;
-                      padding-top: 10px;
-                      padding-bottom: 35px;
-                      text-align: center;
-                      vertical-align: middle; ;
-                    "
-                  >
-                    <a
-                      href="https://zogenix.wavecast.io/fintepla-2022/registration?utm_source=Digital&utm_medium=Email&utm_campaign=Register_interest"
-                      target="_blank"
-                      class="register-btn"
+                <tbody class="transparent">
+                  <tr>
+                    <td
                       style="
-                        color: #682b8d;
-                        text-decoration: none;
-                        font-size: 15px;
-                        font-weight: bold;
-                        padding-top: 15px;
-                        padding-bottom: 15px;
-                        padding-left: 30px;
-                        padding-right: 30px;
-                        border-width: 2px;
-                        border-style: solid;
-                        border-color: #682b8d;
+                        padding: 0;
+                        padding-top: 10px;
+                        padding-bottom: 35px;
+                        text-align: center;
+                        vertical-align: middle; ;
                       "
-                      >REGISTER YOUR INTEREST</a
                     >
-                  </td>
-                </tr>
+                      <a
+                        href="https://zogenix.wavecast.io/fintepla-2022/registration?utm_source=Digital&utm_medium=Email&utm_campaign=Register_interest"
+                        target="_blank"
+                        class="register-btn"
+                        style="
+                          color: #682b8d;
+                          text-decoration: none;
+                          font-size: 15px;
+                          font-weight: bold;
+                          padding-top: 15px;
+                          padding-bottom: 15px;
+                          padding-left: 30px;
+                          padding-right: 30px;
+                          border-width: 2px;
+                          border-style: solid;
+                          border-color: #682b8d;
+                        "
+                        >REGISTER YOUR INTEREST</a
+                      >
+                    </td>
+                  </tr>
+                </tbody>
               </table>
             </td>
           </tr>
