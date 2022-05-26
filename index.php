@@ -1,7 +1,7 @@
 <?php ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-  <head><style>.sub-copy a:hover{text-decoration:underline !important}@font-face {}@media screen and (max-width: 400px){.narrow--dt{padding-left:0 !important;padding-right:0 !important}.narrow__2--dt{padding-left:20px !important;padding-right:20px !important}}</style>
+  <head><style>.sub-copy a:hover{text-decoration:underline !important}@font-face {}@font-face {}@font-face {}@media screen and (max-width: 400px){.narrow--dt{padding-left:0 !important;padding-right:0 !important}.narrow__2--dt{padding-left:20px !important;padding-right:20px !important}}@media (prefers-color-scheme: dark){body{background-color:#f6f9fc !important;color:black !important}center,.webkit{background-color:#ffffff !important}table{color:#4a4a4a !important}.transparent{background-color:transparent !important}}</style>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -71,16 +71,10 @@
                     <img src="https://undefined/undefined/undefined/main-logo.png" alt="" width="143" style="border: 0" />
                   </td>
                   <td style="padding: 0; vertical-align: top">
-                    <img src="https://undefined/undefined/undefined/zogenix-purple.png" alt="" width="111" style="border: 0; float: right" />
+                    <img src="https://undefined/undefined/undefined/zogenix_purple_new.png" alt="" width="111" style="border: 0; float: right" />
                   </td>
                 </tr>
               </table>
-            </td>
-          </tr>
-          
-          <tr>
-            <td class="narrow--dt" style="padding: 0; padding-left: 20px; padding-right: 20px">
-              <img src="https://undefined/undefined/undefined/banner.png" alt="Banner" width="600px;" style="border: 0; max-width: 100%" />
             </td>
           </tr>
           
@@ -89,12 +83,12 @@
               <table width="100%" style="
                   width: 100%;
                   border-spacing: 0;
-                  background-color: #f5f2f7;
+                  /* background-color: #f5f2f7; */
                 ">
                 <tr>
                   <td style="padding: 0">
                     <table style="width: 100%; border-spacing: 0">
-                      <tr>
+                      <tr style="background-color: #f5f2f7">
                         <td class="narrow" style="
                             padding: 0;
                             padding-left: 20px;
@@ -102,13 +96,14 @@
                           ">
                           <div style="
                               width: 3px;
-                              height: 37px;
+                              height: 67px;
                               background-color: #d23d56;
                             "></div>
                         </td>
                         <td style="padding: 0; padding-right: 20px">
-                          <p style="font-size: 18px; color: #682b8d">
-                            A NEW ADVANCE IN THE TREATMENT OF PATIENTS WITH
+                          <p style="font-size: 22px; color: #682b8d">
+                            NICE RECOMMENDS FINTEPLA <br />FOR THE TREATMENT OF
+                            <br />
                             DRAVET SYNDROME
                           </p>
                         </td>
@@ -117,6 +112,12 @@
                   </td>
                 </tr>
               </table>
+            </td>
+          </tr>
+          
+          <tr>
+            <td class="narrow--dt" style="padding: 0; padding-left: 20px; padding-right: 20px">
+              <img src="https://undefined/undefined/undefined/fintepla_banner_image.png" alt="Banner" width="600px;" style="border: 0; max-width: 100%" />
             </td>
           </tr>
           
@@ -142,21 +143,36 @@
                   line-height: 25px;
                   color: #66575c;
                 ">
-                We&apos;re excited to announce that Fintepla&#x25BC;(fenfluramine) is
-                due to be launched in the UK in 2022! Fintepla is indicated for
-                the treatment of seizures associated with Dravet syndrome as an
-                add-on therapy to other anti-epileptic medicines for patients 2
-                years of age and older.<sup style="line-height: 15px">1</sup>
+                We are delighted to confirm that NICE has completed its review
+                of Fintepla (fenfluramine) in the treatment of Dravet syndrome.
               </p>
               <p class="copy" style="
                   padding-bottom: 5px;
                   font-size: 15px;
                   line-height: 25px;
-                  color: #66575c;
+                  color: #682b8d;
                 ">
-                You are invited to attend one of the launch meetings which will
-                be held in Manchester and London. Both will be hybrid meetings,
-                enabling online and in-person attendance.
+                In the final appraisal document (FAD), NICE recommends
+                fenfluramine as an add-on to other antiepileptic medicines for
+                treating seizures associated with Dravet syndrome in people aged
+                2 years and older, only if:
+                <br />
+                <ul class="copy" style="
+                  padding-bottom: 5px;
+                  font-size: 15px;
+                  line-height: 25px;
+                  color: #682b8d;
+                ">
+                  <li><strong><i>it is an add-on to 2 other antiepileptic medicines</i>
+                  </strong></li>
+                  <li><strong><i>the frequency of convulsive seizures is checked every 6 months, 
+                    and fenfluramine is stopped if it has not fallen by at least 30% compared 		
+                    with the 6 months before starting treatment</i>
+                  </strong></li>
+                  <li><strong><i>the company provides fenfluramine according to the commercial 
+                    arrangement.</i>
+                  </strong></li>
+                </ul>
               </p>
             </td>
           </tr>
@@ -164,29 +180,45 @@
           <tr>
             <td style="padding: 0">
               <table style="width: 100%; border-spacing: 0">
-                <tr>
-                  <td style="
-                      padding: 0;
-                      padding-top: 10px;
-                      padding-bottom: 35px;
-                      text-align: center;
-                      vertical-align: middle; ;
-                    ">
-                    <a href="https://zogenix.wavecast.io/fintepla-2022/registration?utm_source=Digital&amp;utm_medium=Email&amp;utm_campaign=Register_interest" target="_blank" class="register-btn" style="
-                        color: #682b8d;
-                        text-decoration: none;
-                        font-size: 15px;
-                        font-weight: bold;
-                        padding-top: 15px;
-                        padding-bottom: 15px;
-                        padding-left: 30px;
-                        padding-right: 30px;
-                        border-width: 2px;
-                        border-style: solid;
-                        border-color: #682b8d;
-                      ">REGISTER YOUR INTEREST</a>
-                  </td>
-                </tr>
+                <tbody class="transparent" style="background-color:transparent">
+                  <tr>
+                    <td style="
+                        padding: 0;
+                        padding-top: 10px;
+                        padding-bottom: 35px;
+                        text-align: center;
+                        vertical-align: middle; ;
+                      ">
+                      <a href="https://zogenix.wavecast.io/fintepla-2022/registration?utm_source=Digital&amp;utm_medium=Email&amp;utm_campaign=Register_interest" target="_blank" class="register-btn" style="
+                          color: white;
+                          background-color: #D23D56;
+                          text-decoration: none;
+                          font-size: 15px;
+                          font-weight: bold;
+                          padding: 12px 32px;
+                          border-width: 2px;
+                          border-style: solid;
+                          border-color: #D23D56;
+                        ">View the full FAD here</a>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center;  vertical-align: middle;">
+                      <p style="
+                          margin: 0 0 15px;
+                          color: #D23D56;
+                          text-decoration: none;
+                          font-size: 26px;
+                          font-weight: 400;
+                        ">&quot;Quote here to be provided&quot;
+                    </p></td>
+                  </tr>
+                  <tr>
+                    <td style="text-align: center;  vertical-align: middle;">
+                      <p style="margin: 0 0 25px;color:#66575C;">[KOL/PAG details to be inserted]
+                    </p></td>
+                  </tr>
+                </tbody>
               </table>
             </td>
           </tr>
@@ -198,8 +230,7 @@
                 padding-bottom: 15px;
               ">
               <p class="sub-copy" style="font-size: 12px; line-height: 18px; color: #63585c">
-                These live interactive sessions have been initiated and funded
-                by Zogenix.
+              Fintepla is indicated for the treatment of seizures associated with Dravet syndrome as an add-on therapy to other anti-epileptic medicines for patients 2 years of age and older.1
               </p>
             </td>
           </tr>
@@ -214,15 +245,18 @@
                       vertical-align: middle;
                       background-color: #682b8d; ;
                     ">
-                    <p style="font-weight: bold; font-size: 17px; color: #ffffff">
-                      TOPICS TO BE COVERED WILL INCLUDE:
+                    <p style="font-weight: bold; font-size: 17px; color: #ffffff;padding: 0 40px;line-height:1.5;">
+                    You are invited to attend one of the Fintepla launch meetings.
+                    These will be held in Manchester and London (dates TBC). Both will be hybrid meetings, enabling online and in-person attendance.  
                     </p>
                   </td>
                 </tr>
                 <tr>
                   <td style="padding: 0; background-color: #f5f2f7">
+                    <p style="padding-left: 20px;color: #682b8d;">
+                      <strong>Topics will include:</strong>
+                    </p>
                     <ul style="
-                        padding-top: 5px;
                         padding-bottom: 5px;
                         padding-left: 40px;
                         padding-right: 40px;
@@ -281,83 +315,44 @@
                     </ul>
                   </td>
                 </tr>
+                <tr>
+                  <td style="
+                      padding: 0;
+                      padding-top: 50px;
+                      padding-bottom: 50px;
+                      text-align: center;
+                      vertical-align: middle; 
+                    ">
+                    <a href="https://zogenix.wavecast.io/fintepla-2022/registration?utm_source=Digital&amp;utm_medium=Email&amp;utm_campaign=Register_interest" target="_blank" class="register-btn" style="
+                        color: white;
+                        background-color: #D23D56;
+                        text-decoration: none;
+                        font-size: 15px;
+                        font-weight: bold;
+                        padding: 15px 40px;
+                        border-width: 2px;
+                        border-style: solid;
+                        border-color: #D23D56;
+                      ">REGISTER YOUR INTEREST HERE</a>
+                  </td>
+                </tr>
               </table>
             </td>
           </tr>
           
           <tr>
-            <td class="narrow" style="padding: 0; padding-left: 20px; padding-right: 20px">
-              <p class="copy" style="
-                  padding-bottom: 5px;
-                  font-size: 15px;
-                  line-height: 25px;
-                  color: #66575c;
-                  max-width: 420px;
-                  margin: 15px auto;
-                  padding-top: 15px;
-                  padding-bottom: 15px;
-                  color: #682b8d;
-                  text-align: center; ;
-                ">
-                Please forward this invite to any of your UK HCP colleagues who
-                you think will be interested in hearing about the launch of
-                Fintepla. We look forward to welcoming you.
-              </p>
-            </td>
-          </tr>
-          
-          <tr>
             <td class="narrow" style="
-                padding: 0;
-                padding-left: 20px;
+                padding: 22px;
                 padding-right: 20px;
                 background-color: #682b8d;
-                padding-top: 35px;
-                padding-bottom: 35px; ;
               ">
               <table style="width: 100%; border-spacing: 0">
                 <tr>
-                  <td style="
-                      padding: 0;
-                      padding-top: 10px;
-                      padding-bottom: 35px;
-                      text-align: center;
-                      vertical-align: middle; ;
-                    ">
-                    <a href="https://zogenix.wavecast.io/fintepla-2022/registration?utm_source=Digital&amp;utm_medium=Email&amp;utm_campaign=Register_interest" target="_blank" class="register-btn register-btn--white" style="
-                        color: #682b8d;
-                        text-decoration: none;
-                        font-size: 15px;
-                        font-weight: bold;
-                        padding-top: 15px;
-                        padding-bottom: 15px;
-                        padding-left: 30px;
-                        padding-right: 30px;
-                        border-width: 2px;
-                        border-style: solid;
-                        border-color: #682b8d;
-                        color: #ffffff;
-                        border-color: #ffffff;
-                      ">REGISTER YOUR INTEREST</a>
-                  </td>
-                </tr>
-                <tr>
-                  <td style="padding: 0">
-                    <p style="
-                        margin-top: -5px;
-                        color: #ffffff;
-                        text-align: center;
-                      ">
-                      and look out for further information, coming soon.
-                    </p>
-                  </td>
-                </tr>
-                <tr>
                   <td style="padding: 0; text-align: center">
-                    <p style="color: #ffffff">
+                    <p style="margin-top: 5px; color: #ffffff">
                       Best Wishes from the Zogenix UK Team
                     </p>
-                    <img width="80" src="https://undefined/undefined/undefined/zogenix-white.png" alt="Zogenix Logo" style="border: 0" />
+                    <img width="136" src="https://undefined/undefined/undefined/zogenix_white_new.png" alt="Zogenix Logo" style="border: 0" />
                   </td>
                 </tr>
               </table>
@@ -374,6 +369,9 @@
               <table style="width: 100%; border-spacing: 0">
                 <tr>
                   <td style="padding: 0">
+                    <p style="color: #682b8d;">
+                      The launch meetings have been initiated and funded by Zogenix.
+                    </p>
                     <p class="sub-copy" style="font-size: 12px; line-height: 18px; color: #63585c">
                       For any medical questions, please email
                       <a href="mailto:medinfo.eu@zogenix.com" style="color: #682b8d; text-decoration: none">medinfo.eu@zogenix.com</a>
@@ -450,13 +448,16 @@
               <table style="width: 100%; border-spacing: 0">
                 <tr>
                   <td style="padding: 0; vertical-align: top">
+                    <p style="max-width:280px;font-size:12px;line-height:1.25;">This event is for UK healthcare professionals only.
+                      This email has been initiated and funded by Zogenix.
+                      </p>
                     <p class="sub-copy" style="font-size: 12px; line-height: 18px; color: #63585c">
-                      UK-FIN1-2100081 December 2021
+                    UK-FIN1-2200068	 May 2022
                     </p>
                   </td>
                   <td style="padding: 0; vertical-align: top; float: right">
-                    <p class="sub-copy" style="font-size: 12px; line-height: 18px; color: #63585c">
-                      Fintepla is currently under NICE evaluation.
+                    <p class="sub-copy" style="font-size: 12px; line-height: 18px; color: #63585c; text-decoration: underline;">
+                    Unsubscribe
                     </p>
                   </td>
                 </tr>
