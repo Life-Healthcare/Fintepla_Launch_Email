@@ -42,7 +42,7 @@
                         color: #ffffff;
                       ">
                       INTENDED FOR HEALTHCARE PROFESSIONALS IN THE UK ONLY |
-                      <a href="https://www.zogenixresources.eu/Fintepla-fenfluramine-Prescribing-Information.pdf" target="_blank" class="sub-copy" style="
+                      <a href="https://www.zogenixresources.eu/UK-Fintepla-fenfluramine-Prescribing-Information.pdf" target="_blank" class="sub-copy" style="
                           font-size: 12px;
                           line-height: 18px;
                           color: #63585c;
@@ -104,7 +104,7 @@
                           <p style="font-size: 22px; color: #682b8d">
                             NICE RECOMMENDS FINTEPLA<sup style="color:black">&#x25BC;</sup> <br />(FENFLURAMINE) FOR TREATING SEIZURES
                             <br />
-                            SSOCIATED WITH DRAVET SYNDROME
+                            ASSOCIATED WITH DRAVET SYNDROME
                           </p>
                         </td>
                       </tr>
@@ -447,7 +447,7 @@
                   </td>
                   <td style="padding: 0; vertical-align: top; float: right">
                     <p class="sub-copy" style="font-size: 12px; line-height: 18px; color: #63585c;">
-                    To unsubscribe from future emails from <br /> Zogenix, now a part of UCB, email <br /> EUDataPrivacy@Zogenix.com
+                    To unsubscribe from future emails from <br /> Zogenix, now a part of UCB, email <br /> <a class="sub-copy" style="font-size: 12px; line-height: 18px; color: #63585c;" href="mailto:EUDataPrivacy@Zogenix.com">EUDataPrivacy@Zogenix.com</a>
                     </p>
                   </td>
                 </tr>
