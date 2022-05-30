@@ -102,9 +102,9 @@
                         </td>
                         <td style="padding: 0; padding-right: 20px">
                           <p style="font-size: 22px; color: #682b8d">
-                            NICE RECOMMENDS FINTEPLA <br />FOR THE TREATMENT OF
+                            NICE RECOMMENDS FINTEPLA<sup style="color:black">&#x25BC;</sup> <br />(FENFLURAMINE) FOR TREATING SEIZURES
                             <br />
-                            DRAVET SYNDROME
+                            SSOCIATED WITH DRAVET SYNDROME
                           </p>
                         </td>
                       </tr>
@@ -143,8 +143,8 @@
                   line-height: 25px;
                   color: #66575c;
                 ">
-                We are delighted to confirm that NICE has completed its review
-                of Fintepla (fenfluramine) in the treatment of Dravet syndrome.
+                We are delighted to confirm that the National Institute for Care and Health Excellence NICE has completed its review
+                of Fintepla (fenfluramine) in the treatment of seizures associated with Dravet syndrome.
               </p>
               <p class="copy" style="
                   padding-bottom: 5px;
@@ -163,7 +163,7 @@
                   line-height: 25px;
                   color: #682b8d;
                 ">
-                  <li><strong><i>it is an add-on to 2 other antiepileptic medicines</i>
+                  <li><strong><i>it is an add-on to 2 other antiepileptic medicines (AEMs)</i>
                   </strong></li>
                   <li><strong><i>the frequency of convulsive seizures is checked every 6 months, 
                     and fenfluramine is stopped if it has not fallen by at least 30% compared 		
@@ -202,22 +202,7 @@
                         ">View the full FAD here</a>
                     </td>
                   </tr>
-                  <tr>
-                    <td style="text-align: center;  vertical-align: middle;">
-                      <p style="
-                          margin: 0 0 15px;
-                          color: #D23D56;
-                          text-decoration: none;
-                          font-size: 26px;
-                          font-weight: 400;
-                        ">&quot;Quote here to be provided&quot;
-                    </p></td>
-                  </tr>
-                  <tr>
-                    <td style="text-align: center;  vertical-align: middle;">
-                      <p style="margin: 0 0 25px;color:#66575C;">[KOL/PAG details to be inserted]
-                    </p></td>
-                  </tr>
+                  
                 </tbody>
               </table>
             </td>
@@ -452,6 +437,7 @@
               <table style="width: 100%; border-spacing: 0">
                 <tr>
                   <td style="padding: 0; vertical-align: top">
+                    <a href="#" target="_blank" style="color: #63585c"><p class="sub-copy" style="font-size: 12px; line-height: 18px; ">View the Zogenix privacy policy here</p></a>
                     <p style="max-width:280px;font-size:12px;line-height:1.25;">This event is for UK healthcare professionals only.
                       This email has been initiated and funded by Zogenix.
                       </p>
@@ -460,8 +446,8 @@
                     </p>
                   </td>
                   <td style="padding: 0; vertical-align: top; float: right">
-                    <p class="sub-copy" style="font-size: 12px; line-height: 18px; color: #63585c; text-decoration: underline;">
-                    Unsubscribe
+                    <p class="sub-copy" style="font-size: 12px; line-height: 18px; color: #63585c;">
+                    To unsubscribe from future emails from <br /> Zogenix, now a part of UCB, email <br /> EUDataPrivacy@Zogenix.com
                     </p>
                   </td>
                 </tr>
