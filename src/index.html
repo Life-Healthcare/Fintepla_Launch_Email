@@ -96,6 +96,20 @@
           background-color: transparent !important;
         }
       }
+      .title-line {
+        height: 107px;
+      }
+      .desired-break {
+        padding-right: 0px;
+      }
+      @media only screen and (min-width: 500px) {
+        .title-line {
+          height: 87px;
+        }
+        .desired-break {
+          display: block;
+        }
+      }
     </style>
   </head>
   <body style="margin: 0; padding: 0">
@@ -223,18 +237,19 @@
                           "
                         >
                           <div
+                            class="title-line"
                             style="
                               width: 3px;
-                              height: 67px;
                               background-color: #d23d56;
                             "
                           ></div>
                         </td>
                         <td style="padding: 0; padding-right: 20px">
-                          <p style="font-size: 22px; color: #682b8d">
-                            NICE RECOMMENDS FINTEPLA<sup style="color:black">&#x25BC;</sup> <br />(FENFLURAMINE) FOR TREATING 
-                            <br />
-                            SEIZURES ASSOCIATED WITH <br />DRAVET SYNDROME
+                          <p style="font-size: 22px; color: #682b8d; line-height: 1.25;">
+                            <span class="desired-break">NICE RECOMMENDS FINTEPLA<sup style="color:black">&#x25BC;</sup></span> 
+                            <span class="desired-break">(FENFLURAMINE) FOR TREATING</span> 
+                            <span class="desired-break">SEIZURES ASSOCIATED WITH</span> 
+                            <span class="desired-break">DRAVET SYNDROME</span>
                           </p>
                         </td>
                       </tr>
@@ -343,7 +358,7 @@
                       "
                     >
                       <a
-                        href="https://zogenix.wavecast.io/fintepla-2022/registration?utm_source=Digital&utm_medium=Email&utm_campaign=Register_interest"
+                        href="https://www.nice.org.uk/guidance/gid-ta10373/documents/html-content-3"
                         target="_blank"
                         class="register-btn"
                         style="
