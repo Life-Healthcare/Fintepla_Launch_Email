@@ -437,7 +437,7 @@
               <table style="width: 100%; border-spacing: 0">
                 <tr>
                   <td style="padding: 0; vertical-align: top">
-                    <a href="www.zogenixresources.eu/Zogenix-Privacy-Policy-Master.pdf" target="_blank" style="color: #63585c"><p class="sub-copy" style="font-size: 12px; line-height: 18px; ">View the Zogenix privacy policy here</p></a>
+                    <a href="https://www.zogenixresources.eu/Zogenix-Privacy-Policy-Master.pdf" target="_blank" style="color: #63585c"><p class="sub-copy" style="font-size: 12px; line-height: 18px; ">View the Zogenix privacy policy here</p></a>
                     <p style="max-width:280px;font-size:12px;line-height:1.25;">This event is for UK healthcare professionals only.
                       This email has been initiated and funded by Zogenix.
                       </p>
