@@ -1,7 +1,7 @@
 <?php ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
-  <head><style>.sub-copy a:hover{text-decoration:underline !important}@font-face {}@font-face {}@font-face {}@media screen and (max-width: 400px){.narrow--dt{padding-left:0 !important;padding-right:0 !important}.narrow__2--dt{padding-left:20px !important;padding-right:20px !important}}@media (prefers-color-scheme: dark){body{background-color:#f6f9fc !important;color:black !important}center,.webkit{background-color:#ffffff !important}table{color:#4a4a4a !important}.transparent{background-color:transparent !important}}</style>
+  <head><style>.sub-copy a:hover{text-decoration:underline !important}@font-face {}@font-face {}@font-face {}@media screen and (max-width: 400px){.narrow--dt{padding-left:0 !important;padding-right:0 !important}.narrow__2--dt{padding-left:20px !important;padding-right:20px !important}}@media (prefers-color-scheme: dark){body{background-color:#f6f9fc !important;color:black !important}center,.webkit{background-color:#ffffff !important}table{color:#4a4a4a !important}.transparent{background-color:transparent !important}}@media only screen and (min-width: 500px){.title-line{height:87px !important}.desired-break{display:block !important}}</style>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -94,17 +94,14 @@
                             padding-left: 20px;
                             padding-right: 20px;
                           ">
-                          <div style="
-                              width: 3px;
-                              height: 67px;
-                              background-color: #d23d56;
-                            "></div>
+                          <div class="title-line" style="width:3px;background-color:#d23d56;height:107px"></div>
                         </td>
                         <td style="padding: 0; padding-right: 20px">
-                          <p style="font-size: 22px; color: #682b8d">
-                            NICE RECOMMENDS FINTEPLA<sup style="color:black">&#x25BC;</sup> <br />(FENFLURAMINE) FOR TREATING 
-                            <br />
-                            SEIZURES ASSOCIATED WITH <br />DRAVET SYNDROME
+                          <p style="font-size: 22px; color: #682b8d; line-height: 1.25;">
+                            <span class="desired-break" style="padding-right:0px">NICE RECOMMENDS FINTEPLA<sup style="color:black">&#x25BC;</sup></span> 
+                            <span class="desired-break" style="padding-right:0px">(FENFLURAMINE) FOR TREATING</span> 
+                            <span class="desired-break" style="padding-right:0px">SEIZURES ASSOCIATED WITH</span> 
+                            <span class="desired-break" style="padding-right:0px">DRAVET SYNDROME</span>
                           </p>
                         </td>
                       </tr>
@@ -189,7 +186,7 @@
                         text-align: center;
                         vertical-align: middle; ;
                       ">
-                      <a href="https://zogenix.wavecast.io/fintepla-2022/registration?utm_source=Digital&amp;utm_medium=Email&amp;utm_campaign=Register_interest" target="_blank" class="register-btn" style="
+                      <a href="https://www.nice.org.uk/guidance/gid-ta10373/documents/html-content-3" target="_blank" class="register-btn" style="
                           color: white;
                           background-color: #D23D56;
                           text-decoration: none;
