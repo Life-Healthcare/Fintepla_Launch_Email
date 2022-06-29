@@ -139,7 +139,7 @@
                   line-height: 25px;
                   color: #66575c;
                 ">
-              We are delighted to confirm that the National Institute for Excellence (NICE) has completed its review of Fintepla (fenfluramine) in the treatment of seizures associated with Dravet syndrome. 
+              We are delighted to confirm that the National Institute for Health and Care Excellence (NICE) has completed its review of Fintepla (fenfluramine) in the treatment of seizures associated with Dravet syndrome. 
               </p>
               <p class="copy" style="
                 padding-bottom: 5px;
@@ -147,8 +147,8 @@
                 line-height: 25px;
                 color: #D23D56;
               ">
-              <strong>In the TAG, NICE recommends fenfluramine as an add-on to other antiepileptic medicines for treating seizures associated with Dravet syndrome in people aged 
-                2 years and older, only if</strong><sup>1</sup>:
+              In the TAG, NICE recommends fenfluramine as an add-on to other antiepileptic medicines for treating seizures associated with Dravet syndrome in people aged 
+                2 years and older, only if<sup>1</sup>:
                 <br />
                 <ul class="copy" style="
                   padding-bottom: 5px;
@@ -219,7 +219,7 @@
               padding-top: 15px;
               padding-bottom: 15px;
             ">
-              <p>Fintepla is indicated for the treatment of seizures associated with Dravet syndrome as an add-on therapy to other anti-epileptic medicines for patients 2 years of age and older.<sup>2</sup></p>
+              <p class="sub-copy" style="font-size: 12px; line-height: 18px; color: #63585c">Fintepla is indicated for the treatment of seizures associated with Dravet syndrome as an add-on therapy to other anti-epileptic medicines for patients 2 years of age and older.<sup>2</sup></p>
             </td>
           </tr>
           
